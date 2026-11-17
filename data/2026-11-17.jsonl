@@ -3,3 +3,7 @@
 {"ts": "2026-11-17T14:30:23+00:00", "routeId": "74769", "route": "Route A", "bus": "2147", "riders": 0, "capacity": 64, "lat": "40.722091000", "lng": "-73.999365600", "outOfService": 0, "outdated": 0}
 {"ts": "2026-11-17T14:30:23+00:00", "routeId": "74772", "route": "Route F", "bus": "2150", "riders": 2, "capacity": 64, "lat": "40.729608800", "lng": "-73.989761300", "outOfService": 0, "outdated": 0}
 {"ts": "2026-11-17T14:30:23+00:00", "routeId": "74771", "route": "Route C", "bus": "2191", "riders": 0, "capacity": 64, "lat": "40.728620500", "lng": "-73.994127300", "outOfService": 0, "outdated": 0}
+{"ts": "2026-11-17T22:40:04+00:00", "routeId": "74769", "route": "Route A", "bus": "2146", "riders": 1, "capacity": 64, "lat": "40.728421783", "lng": "-73.994182800", "outOfService": 0, "outdated": 0}
+{"ts": "2026-11-17T22:40:04+00:00", "routeId": "74772", "route": "Route F", "bus": "2147", "riders": 0, "capacity": 64, "lat": "40.729678100", "lng": "-73.993168300", "outOfService": 0, "outdated": 0}
+{"ts": "2026-11-17T22:40:04+00:00", "routeId": "74768", "route": "Route E", "bus": "2150", "riders": 12, "capacity": 64, "lat": "40.739304600", "lng": "-73.982791600", "outOfService": 0, "outdated": 0}
+{"ts": "2026-11-17T22:40:04+00:00", "routeId": "74769", "route": "Route A", "bus": "2191", "riders": 0, "capacity": 64, "lat": "40.693787600", "lng": "-73.983807500", "outOfService": 0, "outdated": 0}
